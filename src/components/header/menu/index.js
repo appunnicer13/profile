@@ -1,5 +1,5 @@
 import React from 'react';
-import "./menu.css";
+import "./menu.scss";
 import FontIcon from 'material-ui/FontIcon';
 import {red500, yellow500, blue500} from 'material-ui/styles/colors';
 

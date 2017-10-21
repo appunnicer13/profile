@@ -4,7 +4,7 @@
 import React from 'react';
 import Drawer from 'material-ui/Drawer';
 import MenuItem from 'material-ui/MenuItem';
-import "./drawer.css";
+import "./drawer.scss";
 import icons from "material-design"
 import FontIcon from 'material-ui/FontIcon';
 
